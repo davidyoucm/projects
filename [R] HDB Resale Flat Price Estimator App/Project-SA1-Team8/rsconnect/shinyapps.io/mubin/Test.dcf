@@ -1,0 +1,12 @@
+name: Test
+title: Test
+username:
+account: mubin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2078730
+bundleId: 3020970
+url: https://mubin.shinyapps.io/Test/
+when: 1587022737.61219
+asMultiple: FALSE
+asStatic: FALSE
