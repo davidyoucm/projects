@@ -14,8 +14,6 @@ This repository contains all of my programming projects as of 20 Sep 2020.
    - **Primary skills**: data pre-processing, data visualisation, machine learning, model selection
    - **Completed in:** 2019
    - **Grade Received**: A
-   
-   
 2. HDB Resale Flat Price Estimator App
    - **Language**: R
    - **Overview**: Developed a web app featuring an estimator tool and price comparison tool, supported by numerous geographic and graphical visualisations and other user-relevant information
@@ -30,8 +28,6 @@ This repository contains all of my programming projects as of 20 Sep 2020.
    - **Overview**: A short role-playing game played using a text-based interface; the player inputs commands such as 'move' or 'talk' to interact with the game world
    - **Primary skills**: functional programming
    - **Completed in**: 2020
-   
-   
 2. Beauty Blog PWA
    - **Languages**: HTML, CSS, JavaScript
    - **Overview**: A blog PWA built primarily on the Materialize CSS framework
