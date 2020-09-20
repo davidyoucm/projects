@@ -1,35 +1,27 @@
-# David's Projects
+# Course Capstone Project Starter Kit
 
-### Introduction
+This Glitch PWA starter kit is based on the `hello-express` project in Glitch and files from [Google PWA CodeLabs][1]. 
 
-I'm David, an undergraduate at National University of Singapore studying Business Administration (Business Analytics). 
+Consists of a server that serves a webpage, its resources, and some data.
 
-This repository contains all of my programming projects as of 20 Sep 2020.
+To create a new Glitch project from this starter kit, go to `Glitch.com > New Project > Import from Github`, and then
+enter the URL of this repository.
 
-### Academic Projects
+## Your Project
 
-1. Lending Club Risk Analysis
-   - **Language**: Python
-   - **Overview**: Analysed the data of over 42,000 Lending Club customers and developed classification models to predict whether borrowers would default on their loans
-   - **Primary skills**: data pre-processing, data visualisation, machine learning, model selection
-   - **Completed in:** 2019
-   - **Grade Received**: A
-2. HDB Resale Flat Price Estimator App
-   - **Language**: R
-   - **Overview**: Developed a web app featuring an estimator tool and price comparison tool, supported by numerous geographic and graphical visualisations and other user-relevant information
-   - **Primary skills**: data pre-processing, data wrangling, web scraping, data visualisations, regression
-   - **Completed in**: 2020
-   - **Grade Received**: A
+On the front-end,
 
-### Independent Projects
+- Add new html files in the `public/` folder
+- `public/scripts/client.js` is the javacript that runs when you load the webpage
+- `public/style.css` is the styles for the html pages
+- Drag in `assets`, like images or music, to add them to your project
 
-1. Python Text RPG
-   - **Language**: Python
-   - **Overview**: A short role-playing game played using a text-based interface; the player inputs commands such as 'move' or 'talk' to interact with the game world
-   - **Primary skills**: functional programming
-   - **Completed in**: 2020
-2. Beauty Blog PWA
-   - **Languages**: HTML, CSS, JavaScript
-   - **Overview**: A blog PWA built primarily on the Materialize CSS framework
-   - **Primary skills**: responsive web design
-   - **Completed in**: 2020
+On the back-end,
+
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
+
+[1]: https://codelabs.developers.google.com/codelabs/your-first-pwapp/#6
