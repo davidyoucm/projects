@@ -8,17 +8,13 @@ This repository contains all of my programming projects as of 20 Sep 2020.
 
 ### Academic Projects (AP)
 
-1. **Lending Club Risk Analysis**
+1. Lending Club Risk Analysis
    - **Language**: Python
    - **Overview**: Analysed the data of over 42,000 LendingClub customers and developed classification models to predict whether borrowers would default on their loans
    - **Primary skills**: data pre-processing, data visualisation, machine learning, model selection
    - **Completed in:** 2019
    - **Grade Received**: A
-<<<<<<< HEAD
 2. HDB Resale Flat Price Estimator App
-=======
-2. **HDB Resale Flat Price Estimator App**
->>>>>>> 10ceb3fd0f8edb867388f2078394242d230e96ab
    - **Language**: R
    - **Overview**: Developed a web app featuring an estimator tool and price comparison tool, supported by numerous geographic and graphical visualisations and other user-relevant information
    - **Primary skills**: data pre-processing, data wrangling, web scraping, data visualisations, regression
@@ -27,16 +23,12 @@ This repository contains all of my programming projects as of 20 Sep 2020.
 
 ### Independent Projects (IP)
 
-1. **Python Text RPG**
+1. Python Text RPG
    - **Language**: Python
    - **Overview**: A short role-playing game played using a text-based interface; the player inputs commands such as 'move' or 'talk' to interact with the game world
    - **Primary skills**: functional programming
    - **Completed in**: 2020
-<<<<<<< HEAD
 2. Beauty Blog PWA
-=======
-2. **Beauty Blog PWA**
->>>>>>> 10ceb3fd0f8edb867388f2078394242d230e96ab
    - **Languages**: HTML, CSS, JavaScript
    - **Overview**: A blog PWA built primarily on the Materialize CSS framework
    - **Primary skills**: responsive web design
