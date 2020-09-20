@@ -1,6 +1,9 @@
 # Beauty Blog PWA
 
-Languages: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript
+- **Overview**: A blog PWA built primarily on the Materialize CSS framework
+- **Primary skills**: responsive web design
+- **Completed in**: 2020
 
 Access the rendered website here: https://beauty-blog-final.glitch.me/
 
