@@ -1,6 +1,6 @@
 # LendingClub Risk Analysis
 - **Language**: Python
-- **Overview**: Analysed the data of over 42,000 Lending Club customers and developed classification models to predict whether borrowers would default on their loans
+- **Overview**: Analysed the data of over 42,000 LendingClub customers and developed classification models to predict whether borrowers would default on their loans
 - **Primary skills**: data pre-processing, data visualisation, machine learning, model selection
 - **Completed in:** 2019
 - **Grade Received**: A

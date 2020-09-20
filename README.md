@@ -6,11 +6,11 @@ I'm David, an undergraduate at National University of Singapore studying Busines
 
 This repository contains all of my programming projects as of 20 Sep 2020.
 
-### Academic Projects
+### Academic Projects (AP)
 
 1. Lending Club Risk Analysis
    - **Language**: Python
-   - **Overview**: Analysed the data of over 42,000 Lending Club customers and developed classification models to predict whether borrowers would default on their loans
+   - **Overview**: Analysed the data of over 42,000 LendingClub customers and developed classification models to predict whether borrowers would default on their loans
    - **Primary skills**: data pre-processing, data visualisation, machine learning, model selection
    - **Completed in:** 2019
    - **Grade Received**: A
@@ -21,7 +21,7 @@ This repository contains all of my programming projects as of 20 Sep 2020.
    - **Completed in**: 2020
    - **Grade Received**: A
 
-### Independent Projects
+### Independent Projects (IP)
 
 1. Python Text RPG
    - **Language**: Python
