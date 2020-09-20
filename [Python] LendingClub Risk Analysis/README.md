@@ -5,6 +5,8 @@
 - **Completed in:** 2019
 - **Grade Received**: A
 
+------
+
 LendingClub is one of the leading P2P lending companies in the United States. With a rise in credit demand, there have been more instances of default on loans which will potentially squeeze LendingClub’s profit margin.
 
 This project uses machine learning to classify whether a potential borrower will default on his loan or not.
