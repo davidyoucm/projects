@@ -1,0 +1,12 @@
+name: HDBResaleApp
+title: HDBResaleApp
+username:
+account: davidyou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2846808
+bundleId: 3648210
+url: https://davidyou.shinyapps.io/HDBResaleApp/
+when: 1600582665.37273
+asMultiple: FALSE
+asStatic: FALSE
