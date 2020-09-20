@@ -5,7 +5,7 @@
 - **Primary skills**: responsive web design
 - **Completed in**: 2020
 
-Access the rendered website here: https://beauty-blog-final.glitch.me/
+Access the rendered website here: <a href="https://beauty-blog-final.glitch.me/" target="_blank">https://beauty-blog-final.glitch.me/</a>
 
 ------
 

@@ -6,7 +6,7 @@
 - **Completed in**: 2020
 - **Grade Received**: A
 
-Access the web app here: https://davidyou.shinyapps.io/HDBResaleApp/
+Access the web app here:  <a href="https://davidyou.shinyapps.io/HDBResaleApp/" target="_blank">https://davidyou.shinyapps.io/HDBResaleApp/</a>
 
 ------
 
