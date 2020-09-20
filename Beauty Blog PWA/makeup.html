@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="/css/pure/pure-min.css" />
+    <link rel="stylesheet" href="/css/pure/grids-responsive-min.css" />
+    <link rel="stylesheet" href="/layouts/blog/styles.css" />
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <title>Beauty Blog</title>
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+
+    <link rel="manifest" href="/manifest.json" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="Lovely App" />
+    <link rel="apple-touch-icon" href="https://cdn.glitch.com/2345195f-6b17-42cd-9f14-8230736b8a90%2Ficon-512x512.png"/>
+
+    <meta name="description" content="Beauty Blog" />
+
+    <meta name="theme-color" content="#2F3BA2" />
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="main-container">
+      <!-- Start of Navigation Bar -->
+      <div class="navbar-fixed">
+        <nav>
+          <div class="nav-wrapper">
+            <a href="index.html" class="brand-logo center">Beauty Blog</a>
+            <button id="butInstall" aria-label="Install" hidden></button>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger">
+              <i class="material-icons">menu</i>
+            </a>
+            <ul class="left hide-on-med-and-down">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="skincare.html">Skincare</a></li>
+              <li class="active"><a href="makeup.html">Makeup</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Navigation Bar on Mobile Devices -->
+      <ul class="sidenav" id="mobile-demo">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="skincare.html">Skincare</a></li>
+        <li><a href="makeup.html">Makeup</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <!-- End of Navigation Bar -->
+
+      <!-- Start of Site Content -->
+      <header>
+        <h1>Makeup</h1>
+      </header>
+      <div class="band">
+        <div class="item">
+          <a href="blogpost1.html" class="card">
+            <div
+              class="thumb"
+              style="background-image: url(https://cdn.glitch.com/ff07d7eb-059e-4259-8f41-a35b805d99e7%2Fmakeup.jpg?v=1598269619319);"
+            ></div>
+            <article>
+              <h1>Amazing Products of 2020!</h1>
+              <span>David You</span>
+            </article>
+          </a>
+        </div>
+        <div class="item">
+          <a href="blogpost2.html" class="card">
+            <div
+              class="thumb"
+              style="background-image: url(https://cdn.glitch.com/406f9e96-7795-41db-8544-d5bc086e2985%2F3CE.jpeg?v=1598511948231);"
+            ></div>
+            <article>
+              <h1>This Lipstick Collection Was My Best Buy of 2020!</h1>
+              <p>
+                The Mood Recipe Collection is true to being the talk of the town, and here's why.
+              </p>
+              <span>Lee Yu Qing</span>
+            </article>
+          </a>
+        </div>
+      </div>
+      <!-- End of Site Content -->
+    </div>
+    
+    <!-- page numbers -->
+  <ul class="pagination">
+    <li class="disabled">
+      <a href="#!"><i class="material-icons">chevron_left</i></a>
+    </li>
+    <li class="active"><a href="#!">1</a></li>
+    <li class="waves-effect"><a href="#!">2</a></li>
+    <li class="waves-effect"><a href="#!">3</a></li>
+    <li class="waves-effect">
+      <a href="#!"><i class="material-icons">chevron_right</i></a>
+    </li>
+  </ul>
+  
+  <!--footer-->
+  <footer class="page-footer">
+    <div class="footer-copyright">
+      <div class="container">
+        © 2020 Copyright by David and Yu Qing
+      </div>
+    </div>
+    </footer>
+
+
+    <script src="/scripts/register-sw.js"></script>
+    <script src="/scripts/init.js"></script>
+    <script src="/scripts/client.js"></script>
+    <script src="/scripts/install.js"></script>
+  </body>
+</html>
