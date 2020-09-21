@@ -4,7 +4,7 @@ library(shiny)
 library(curl) # make the jsonlite suggested dependency explicit
 library(geosphere)
 library(ggmap)
-register_google("AIzaSyAXGjdqxP4C-E35RBfQC2YpSVhCH653m88")
+register_google("insert token here")
 library(scales)
 library(tidyverse)
 library(rvest)
