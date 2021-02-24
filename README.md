@@ -4,7 +4,7 @@
 
 I'm David, an undergraduate at National University of Singapore studying Business Administration (Business Analytics). 
 
-This repository contains all of my programming projects as of 20 Sep 2020.
+This repository contains all of my programming projects as of Feb 2021.
 
 ### Academic Projects (AP)
 
